@@ -1,0 +1,27 @@
+git init
+ls -a
+cd .git/
+ll
+cd branches/
+ll
+cd ..
+git status
+git add testing.py                                                                                                                       anirudh
+git status
+git rm --cached .                                                                                                                        anirudh
+git status
+git rm r --cached .
+git rm -r --cached .
+git add .
+git status
+git status
+git commit -m "tracking file start"
+git dtaut
+git status
+ll
+ls
+ls -a
+git status
+git restore
+git restore .
+history
